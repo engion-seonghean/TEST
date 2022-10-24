@@ -18,7 +18,7 @@ namespace TESTGIT
         //Add VS_1425
         //Add Web_1424
         //Add reset1024
-        //Add VS_1046
+        //Add Web_1045
         /// <summary>
         /// 해당 애플리케이션의 주 진입점입니다.
         /// </summary>
