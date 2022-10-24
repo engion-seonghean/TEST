@@ -1,7 +1,6 @@
 D:\Program\TEST\TESTGIT\TESTGIT\bin\Debug\TESTGIT.exe.config
 D:\Program\TEST\TESTGIT\TESTGIT\bin\Debug\TESTGIT.exe
 D:\Program\TEST\TESTGIT\TESTGIT\bin\Debug\TESTGIT.pdb
-D:\Program\TEST\TESTGIT\TESTGIT\obj\Debug\TESTGIT.csproj.AssemblyReference.cache
 D:\Program\TEST\TESTGIT\TESTGIT\obj\Debug\TESTGIT.Form1.resources
 D:\Program\TEST\TESTGIT\TESTGIT\obj\Debug\TESTGIT.Properties.Resources.resources
 D:\Program\TEST\TESTGIT\TESTGIT\obj\Debug\TESTGIT.csproj.GenerateResource.cache
