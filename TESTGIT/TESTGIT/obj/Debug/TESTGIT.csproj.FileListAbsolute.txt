@@ -7,4 +7,3 @@ D:\Program\TEST\TESTGIT\TESTGIT\obj\Debug\TESTGIT.csproj.GenerateResource.cache
 D:\Program\TEST\TESTGIT\TESTGIT\obj\Debug\TESTGIT.csproj.CoreCompileInputs.cache
 D:\Program\TEST\TESTGIT\TESTGIT\obj\Debug\TESTGIT.exe
 D:\Program\TEST\TESTGIT\TESTGIT\obj\Debug\TESTGIT.pdb
-D:\Program\TEST\TESTGIT\TESTGIT\obj\Debug\TESTGIT.csproj.AssemblyReference.cache
