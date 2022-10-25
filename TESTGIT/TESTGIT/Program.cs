@@ -8,6 +8,7 @@ namespace TESTGIT
 {
     static class Program
     {
+        #region
         //Add comment1204
         //Add comment1346
         //Add comment1352
@@ -31,6 +32,10 @@ namespace TESTGIT
         //Add VS_branch3Modefy
         //Add VS_branch3Modefy2
         //Add VS_branch3Modefy3
+        #endregion
+
+        //Add VS_init1207
+
         /// <summary>
         /// 해당 애플리케이션의 주 진입점입니다.
         /// </summary>
