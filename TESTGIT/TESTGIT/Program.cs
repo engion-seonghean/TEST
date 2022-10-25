@@ -8,6 +8,7 @@ namespace TESTGIT
 {
     static class Program
     {
+<<<<<<< HEAD
         //Add VS_[main]init1222
         //Add Web_[main]init1241
         //Add Web_[main]modify1252
@@ -18,6 +19,14 @@ namespace TESTGIT
 
         //Add VS_[Branch6]Modify1903
 
+=======
+        //Add VS_[Branch6]Modify1903
+         //Add Web_[main]modify1947
+
+        
+        
+        
+>>>>>>> origin/main
         /// <summary>
         /// 해당 애플리케이션의 주 진입점입니다.
         /// </summary>
