@@ -21,7 +21,6 @@ D:\Program\Git1024\TESTGIT\TESTGIT\obj\Debug\TESTGIT.csproj.AssemblyReference.ca
 C:\Users\MSH\OneDrive - (주)이엘피\999 Tech_Doc\2000 Git\Git1024\TESTGIT\TESTGIT\bin\Debug\TESTGIT.exe.config
 C:\Users\MSH\OneDrive - (주)이엘피\999 Tech_Doc\2000 Git\Git1024\TESTGIT\TESTGIT\bin\Debug\TESTGIT.exe
 C:\Users\MSH\OneDrive - (주)이엘피\999 Tech_Doc\2000 Git\Git1024\TESTGIT\TESTGIT\bin\Debug\TESTGIT.pdb
-C:\Users\MSH\OneDrive - (주)이엘피\999 Tech_Doc\2000 Git\Git1024\TESTGIT\TESTGIT\obj\Debug\TESTGIT.csproj.AssemblyReference.cache
 C:\Users\MSH\OneDrive - (주)이엘피\999 Tech_Doc\2000 Git\Git1024\TESTGIT\TESTGIT\obj\Debug\TESTGIT.Form1.resources
 C:\Users\MSH\OneDrive - (주)이엘피\999 Tech_Doc\2000 Git\Git1024\TESTGIT\TESTGIT\obj\Debug\TESTGIT.Properties.Resources.resources
 C:\Users\MSH\OneDrive - (주)이엘피\999 Tech_Doc\2000 Git\Git1024\TESTGIT\TESTGIT\obj\Debug\TESTGIT.csproj.GenerateResource.cache
