@@ -35,7 +35,7 @@ namespace TESTGIT
         #endregion
 
         //Add VS_init1207
-
+        //Add VS_[main]init1222
         /// <summary>
         /// 해당 애플리케이션의 주 진입점입니다.
         /// </summary>
