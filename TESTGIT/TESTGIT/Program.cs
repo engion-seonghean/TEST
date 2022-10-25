@@ -8,33 +8,6 @@ namespace TESTGIT
 {
     static class Program
     {
-        #region
-        //Add comment1204
-        //Add comment1346
-        //Add comment1352
-        //Add comment1354
-        //Add VS_1405
-        //Add comment1354
-        //Add VS_1404
-        //Add VS_1425
-        //Add Web_1424
-        //Add reset1024
-        //Add Web_1045
-        //Add VS_1451
-
-        //Add 분기 만들기
-        //Add 분기 후 수정 1459
-        //Add master와 분기 병합
-        //Add Web_MasterModify1511
-        //Add Web_MasterModify1517
-        //Add VS_0950
-        //Add Web_0955 mask branch3
-        //Add VS_branch3Modefy
-        //Add VS_branch3Modefy2
-        //Add VS_branch3Modefy3
-        #endregion
-
-        //Add VS_init1207
         //Add VS_[main]init1222
         //Add Web_[main]init1241
         /// <summary>
