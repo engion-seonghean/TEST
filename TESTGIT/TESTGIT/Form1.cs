@@ -16,5 +16,10 @@ namespace TESTGIT
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            //Add VS_[main]modify2344
+        }
     }
 }
