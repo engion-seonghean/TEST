@@ -27,4 +27,3 @@ C:\Users\MSH\OneDrive - (주)이엘피\999 Tech_Doc\2000 Git\Git1024\TESTGIT\TES
 C:\Users\MSH\OneDrive - (주)이엘피\999 Tech_Doc\2000 Git\Git1024\TESTGIT\TESTGIT\obj\Debug\TESTGIT.csproj.CoreCompileInputs.cache
 C:\Users\MSH\OneDrive - (주)이엘피\999 Tech_Doc\2000 Git\Git1024\TESTGIT\TESTGIT\obj\Debug\TESTGIT.exe
 C:\Users\MSH\OneDrive - (주)이엘피\999 Tech_Doc\2000 Git\Git1024\TESTGIT\TESTGIT\obj\Debug\TESTGIT.pdb
-C:\Users\MSH\OneDrive - (주)이엘피\999 Tech_Doc\2000 Git\Git1024\TESTGIT\TESTGIT\obj\Debug\TESTGIT.csproj.AssemblyReference.cache
