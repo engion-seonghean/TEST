@@ -14,6 +14,7 @@ namespace TESTGIT
         //Add VS_[main]Modify1253
         //Add VS_[main]Modify1459
         //Add Web_[main]modify1458
+        //Add make Branch6
         /// <summary>
         /// 해당 애플리케이션의 주 진입점입니다.
         /// </summary>
