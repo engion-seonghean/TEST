@@ -10,6 +10,7 @@ namespace TESTGIT
     {
         //Add VS_[main]init1222
         //Add Web_[main]init1241
+        //Add Web_[main]modify1252
         /// <summary>
         /// 해당 애플리케이션의 주 진입점입니다.
         /// </summary>
