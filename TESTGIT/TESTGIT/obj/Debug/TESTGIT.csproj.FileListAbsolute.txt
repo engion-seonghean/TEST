@@ -8,3 +8,13 @@ C:\Users\MSH\OneDrive - (주)이엘피\999 Tech_Doc\2000 Git\Git1024\TESTGIT\TES
 C:\Users\MSH\OneDrive - (주)이엘피\999 Tech_Doc\2000 Git\Git1024\TESTGIT\TESTGIT\obj\Debug\TESTGIT.csproj.CoreCompileInputs.cache
 C:\Users\MSH\OneDrive - (주)이엘피\999 Tech_Doc\2000 Git\Git1024\TESTGIT\TESTGIT\obj\Debug\TESTGIT.exe
 C:\Users\MSH\OneDrive - (주)이엘피\999 Tech_Doc\2000 Git\Git1024\TESTGIT\TESTGIT\obj\Debug\TESTGIT.pdb
+D:\Program\Git1024\TESTGIT\TESTGIT\bin\Debug\TESTGIT.exe.config
+D:\Program\Git1024\TESTGIT\TESTGIT\bin\Debug\TESTGIT.exe
+D:\Program\Git1024\TESTGIT\TESTGIT\bin\Debug\TESTGIT.pdb
+D:\Program\Git1024\TESTGIT\TESTGIT\obj\Debug\TESTGIT.csproj.AssemblyReference.cache
+D:\Program\Git1024\TESTGIT\TESTGIT\obj\Debug\TESTGIT.Form1.resources
+D:\Program\Git1024\TESTGIT\TESTGIT\obj\Debug\TESTGIT.Properties.Resources.resources
+D:\Program\Git1024\TESTGIT\TESTGIT\obj\Debug\TESTGIT.csproj.GenerateResource.cache
+D:\Program\Git1024\TESTGIT\TESTGIT\obj\Debug\TESTGIT.csproj.CoreCompileInputs.cache
+D:\Program\Git1024\TESTGIT\TESTGIT\obj\Debug\TESTGIT.exe
+D:\Program\Git1024\TESTGIT\TESTGIT\obj\Debug\TESTGIT.pdb
