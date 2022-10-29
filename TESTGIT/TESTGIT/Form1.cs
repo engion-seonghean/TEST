@@ -23,9 +23,7 @@ namespace TESTGIT
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            //Add VS_[Main]modify1231
-            //Add VS_[Main]modify1231
-            //Add VS_[Main]modify1334
+
         }
     }
 }
