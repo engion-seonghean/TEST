@@ -31,8 +31,13 @@ namespace TESTGIT
         private void Form1_Load(object sender, EventArgs e)
         {
             funcBranch();
+            funcBranch2();
         }
         void funcBranch()
+        {
+           
+        }
+        void funcBranch2()
         {
 
         }
