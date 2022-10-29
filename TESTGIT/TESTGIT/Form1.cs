@@ -21,6 +21,7 @@ namespace TESTGIT
         //리셋 - MIXED: 이후 커밋이 수정됨 상태로 유지
 
         //init
+        //make branch2
         public Form1()
         {
             InitializeComponent();
