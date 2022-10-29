@@ -17,6 +17,9 @@ namespace TESTGIT
         //push, 로컬 저장소의 데이터를 원격 저장소로 밀어넣기
 
 
+        // b`init
+        // b`mo - m NoMo
+        // // bran-Main Merge
         public Form1()
         {
             InitializeComponent();
