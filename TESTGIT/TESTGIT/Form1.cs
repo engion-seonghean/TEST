@@ -20,9 +20,7 @@ namespace TESTGIT
         //리셋 -  HEAD: 이후 커밋이 없어짐
         //리셋 - MIXED: 이후 커밋이 수정됨 상태로 유지
 
-        //make branch
-        //m`mod
-        //b`mod
+        //init
         public Form1()
         {
             InitializeComponent();
