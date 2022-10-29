@@ -15,11 +15,7 @@ namespace TESTGIT
         //check
         //check1
         //check2
-<<<<<<< HEAD
-        //main1
-
-=======
->>>>>>> aba8b0d (수정 check2)
+        //main3
         public Form1()
         {
             InitializeComponent();
